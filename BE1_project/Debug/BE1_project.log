@@ -1,0 +1,18 @@
+﻿  BE1_project.cpp
+C:\Users\gugus\Documents\Centrale\3A General\MOS\Modélisation géométrique\BE1\BE1_project\BE1_project.cpp(163,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gugus\Documents\Centrale\3A General\MOS\Modélisation géométrique\BE1\BE1_project\BE1_project.cpp(346,57): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned char
+          ]
+C:\Users\gugus\Documents\Centrale\3A General\MOS\Modélisation géométrique\BE1\BE1_project\BE1_project.cpp(347,57): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned char
+          ]
+C:\Users\gugus\Documents\Centrale\3A General\MOS\Modélisation géométrique\BE1\BE1_project\BE1_project.cpp(348,57): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned char
+          ]
+  BE1_project.vcxproj -> C:\Users\gugus\Documents\Centrale\3A General\MOS\Modélisation géométrique\BE1\BE1_project\Debug\BE1_project.exe
